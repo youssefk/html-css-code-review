@@ -1,3 +1,7 @@
 h1, h2, p, a {
   font-family: sans-serif;
 }
+
+img {
+  width: 250px;
+}
