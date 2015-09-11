@@ -14,7 +14,7 @@ _Here you will learn more about me that you didn't before. This is an assignment
 
 ##Link to site on GitHub Pages
 
-http://(will add site here)
+http://youssefk.github.io/html-css-code-review/
 
 ### Legal
 
