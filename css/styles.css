@@ -2,6 +2,16 @@ h1, h2, p, a, li {
   font-family: sans-serif;
 }
 
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+  font-style: italic;
+}
+
 img {
   width: 250px;
 }
